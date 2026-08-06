@@ -49,5 +49,6 @@ const AUTH_KEY = "xxxxxxxxxxxxx";
 ۶. تیک گزینه Trust this CA to identify websites را بزنید و OK کنید.
 
 مرورگر فایرفاکس را ببندید و دوباره باز کنید. حالا همه سایت‌ها بدون مشکل باز می‌شوند!
+
 ---
 #### Developed by WhisperInHeaven
